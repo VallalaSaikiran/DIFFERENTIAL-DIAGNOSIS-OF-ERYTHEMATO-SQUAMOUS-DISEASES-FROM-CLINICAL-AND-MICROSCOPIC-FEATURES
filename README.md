@@ -91,7 +91,7 @@ python Main.py
 
 ---
 
-## 📊 Example Workflow
+## 📊 Workflow
 
 1. **Admin Signup/Login**
 2. Upload dataset (`CSV`)
